@@ -9,7 +9,10 @@
     "RACK_ENV": {
       "required": true
     },
-    "PUBLIC_SET_VALUE": "oh-my-var",
+    "PRIVATE_COPIED_REVIEW_APP": {
+      "required": true
+    },
+    "PUBLIC_REVIEW_APP_ONLY_VALUE": "public-review-apps-only",
     "GENERATE_SECRET_VALUE": {
       "generator": "secret"
     }
